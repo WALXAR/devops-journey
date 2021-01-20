@@ -1,5 +1,5 @@
 # Devops-journey 👌
-Una ruta o trayectoria increíble para adentrarnos al mundo [#DEVOPS](https://platzi.com/blog/que-es-devops/ "DEVOPS"), en donde aprenderemos muchas cosas con nuestro trabajo colaborativo.
+Una ruta o trayectoria increíble para adentrarnos al mundo [**DEVOPS**](https://platzi.com/blog/que-es-devops/ "DEVOPS"), en donde aprenderemos muchas cosas con nuestro trabajo colaborativo.
 
 
 > La palabra DevOps es una contracción de 
