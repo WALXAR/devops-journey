@@ -9,7 +9,6 @@ mejorar la agilidad del servicio de entrega de TI.
 La medida enfatiza la comunicación transparente, la colaboración junto con 
 la integración entre el software para desarrolladores y las
 operaciones de TI
-
 > - CertiProf
 
 ## En este trabajo colaborativo practicaremos:
