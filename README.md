@@ -22,4 +22,4 @@ operaciones de TI
 * 
 * 
 
-Y como un amable recordatorio: **Este readme.md es para motivarnos a dar lo mejor de nosotros para convertirnos en lo que mas deamos, HOMBRES EXITOSOS**.  Diseñado para que: TE LO TOMES EN SERIO.
+Y como un amable recordatorio: **Este readme.md es para motivarnos a dar lo mejor de nosotros, para convertirnos en lo que mas deseamos, HOMBRES EXITOSOS**.  Diseñado para que: TE LO TOMES EN SERIO.
